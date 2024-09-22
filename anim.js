@@ -4,7 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Maylin un pony", time: 2 }
+  { text: "skibidi sigma ponmi", time: 2 }
 ];
 
 // Animar las letras
